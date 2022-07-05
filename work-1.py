@@ -1,0 +1,13 @@
+print('Hello 6/14')
+print('My name is : Ratchanon Tiratsorn') #รัชชานนท์ ติรัตน์สรณ์ ม.6/14 เลขที่ 16
+print('Nickname : bank')
+print('Age : 16')
+print('Gender : Male')
+print('My birthday is 25/06/2005')
+print('Contact : 091-7957460')
+print('Blood Type : AB')
+print('My favorite color : skyblue')
+print('My favorite food : omlette')
+print('My hobbies : play games')
+print('My favorite subject : Math and Computer')
+print('My favorite pet : cat and dog and bird')
